@@ -53,5 +53,17 @@ Answers were generated and improved using AI and saved as screenshots for refere
 
 ---
 
-## 📁 Folder Structure
+
+## ✅ Future Scope
+
+- Add vector search grounding to allow document-based context
+- Host via Flask + React frontend
+- Create categorized Q&A sets for different domains
+
+---
+
+## 🧑‍💻 Author
+
+**Vanshika Malviya**  
+Email: [vanshikamalviya1892@gmail.com] 
 
