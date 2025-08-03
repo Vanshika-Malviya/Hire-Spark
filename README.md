@@ -26,7 +26,7 @@ This project is an AI-powered assistant designed to help users practice for tech
 
 ## 📸 Sample Q&A Sessions (Screenshots)
 
- ![Q1](./20195707.png)
+ ![Q1](./Screenshot 2025-08-03 195707.png)
 
 ---
 
