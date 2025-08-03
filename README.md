@@ -24,9 +24,16 @@ This project is an AI-powered assistant designed to help users practice for tech
 
 ---
 
-## 📸 Sample Q&A Sessions (Screenshots)
+## 🖼️ Interface and Demo
 
- ![Q1](Screenshot 2025-08-03 195707.png)
+### 🔹 App Interface  
+![Interface](./ASSETS/INTERFACE.png)
+
+### 🔹 First User Question  
+![First Question](./ASSETS/FIRST_Q.png)
+
+### 🔹 AI Reply Example  
+![AI Reply](./ASSETS/REPLY_1.png)
 
 ---
 
