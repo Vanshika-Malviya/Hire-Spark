@@ -26,7 +26,7 @@ This project is an AI-powered assistant designed to help users practice for tech
 
 ## 📸 Sample Q&A Sessions (Screenshots)
 
-https://github.com/Vanshika-Malviya/Hire-Spark/blob/main/Screenshot%202025-08-03%20195707.png
+ ![Q1](./20195707.png)
 
 ---
 
